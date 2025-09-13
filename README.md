@@ -8,8 +8,9 @@
 - C++  
 - Python (Basic)  
 - Object-Oriented Programming (OOP) Concepts  
-- Networking Basics  
-- SQL (Database)  
+  Data-structure and algorithm concepts
+- SQL (Database)
+-  Networking Basics
 - HTML, CSS, JavaScript (Learner)  
 
 ---
