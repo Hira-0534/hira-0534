@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello World! I'm Hira Shahid</h1>
-<h3 align="center">🎓 Software Engineering Student at MUST University session (2023-2027) | 💻 front-end Developer</h3>
+<h3 align="center">🎓 Software Engineering Student at MUST University session (2023-2027) | 💻 front-end Developer
+</h3>
 
 ---
 
