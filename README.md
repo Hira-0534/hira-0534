@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Hira Shahid</h1>
-<h3 align="center">🎓 Software Engineering Student at MUST University session (2023-2027) | 💻 Web Developer Learner</h3>
+<h3 align="center">🎓 Software Engineering Student at MUST University session (2023-2027) | 💻 front-end Developer</h3>
 
 ---
 
@@ -11,8 +11,7 @@
   Data-structure and algorithm concepts
 - SQL (Database)
 -  Networking Basics
-- HTML, CSS, JavaScript (Learner)  
-
+- HTML, CSS, JavaScript ,react.js
 ---
 
 ### 📚 Education & Study Journey  
