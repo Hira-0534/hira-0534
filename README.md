@@ -12,7 +12,7 @@
   Data-structure and algorithm concepts
 - SQL (Database)
 -  Networking Basics
-- HTML, CSS, JavaScript ,react.js
+- HTML, CSS, JavaScript ,react.js,node.js, express.js,mysql
 ---
 
 ### 📚 Education & Study Journey  
